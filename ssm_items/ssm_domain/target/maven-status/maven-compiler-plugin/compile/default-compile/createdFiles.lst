@@ -1,0 +1,8 @@
+cn\xiaowei\domain\Orders.class
+cn\xiaowei\domain\Permission.class
+cn\xiaowei\domain\Member.class
+cn\xiaowei\domain\Role.class
+cn\xiaowei\domain\Traveller.class
+cn\xiaowei\domain\UserInfo.class
+cn\xiaowei\domain\Product.class
+cn\xiaowei\domain\sysLog.class

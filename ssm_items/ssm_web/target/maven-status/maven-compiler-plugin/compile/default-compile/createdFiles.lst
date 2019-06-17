@@ -1,0 +1,7 @@
+cn\xiaowei\controller\RoleCont.class
+cn\xiaowei\controller\OrdersCont.class
+cn\xiaowei\controller\LogAop.class
+cn\xiaowei\controller\PermissionCont.class
+cn\xiaowei\controller\Productcont.class
+cn\xiaowei\controller\sysLogCont.class
+cn\xiaowei\controller\UserCont.class

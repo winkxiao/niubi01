@@ -1,0 +1,15 @@
+cn\xiaowei\service\RoleService.class
+cn\xiaowei\service\Impl\sysLogServiceImpl.class
+cn\xiaowei\service\MemberService.class
+cn\xiaowei\service\PermissionService.class
+cn\xiaowei\service\Impl\OrdersServiceImpl.class
+cn\xiaowei\service\Impl\MemberServiceImpl.class
+cn\xiaowei\service\OrdersService.class
+cn\xiaowei\service\userService.class
+cn\xiaowei\service\sysLogService.class
+cn\xiaowei\service\Impl\ProductServiceImpl.class
+cn\xiaowei\service\TravellerService.class
+cn\xiaowei\service\ProductService.class
+cn\xiaowei\service\Impl\PermissionServiceImpl.class
+cn\xiaowei\service\Impl\RoleServiceImpl.class
+cn\xiaowei\service\Impl\userServiceImpl.class

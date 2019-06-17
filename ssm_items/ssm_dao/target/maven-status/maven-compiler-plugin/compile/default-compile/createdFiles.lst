@@ -1,0 +1,8 @@
+cn\xiaowei\dao\PermissionDao.class
+cn\xiaowei\dao\MemberDao.class
+cn\xiaowei\dao\RoleDao.class
+cn\xiaowei\dao\UserDao.class
+cn\xiaowei\dao\TravellerDao.class
+cn\xiaowei\dao\sysLogDao.class
+cn\xiaowei\dao\OrdersDao.class
+cn\xiaowei\dao\ProductDao.class
